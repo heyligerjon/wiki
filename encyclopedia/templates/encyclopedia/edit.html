@@ -1,0 +1,26 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    {{ title|safe }}
+{% endblock %}
+
+{% block nav %}
+{% endblock %}
+
+{% block body %}
+  <form class="edit" action="{% url 'wiki:index' %}" method="post">
+    {% csrf_token %}
+    {% for field in edit %}
+      <div class="{{ field.name }}">
+        <div class="lbl_{{ field.name}}">
+          <label for="{{ field.name }}">{{ field.name }}:</label>
+        </div>
+        {{ field|safe }}
+      </div>
+    {% endfor %}
+    <div>
+      <input type="submit">
+    </div>
+  </form>
+
+{% endblock %}

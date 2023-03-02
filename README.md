@@ -15,13 +15,6 @@ For details on the `Specification` for this project, Please take a look at the [
 
 *For a full description of the CS50 Wiki project, visit:* [**CS50 Wiki Full Description**](https://cs50.harvard.edu/web/2020/projects/1/wiki/#:~:text=web50/projects/2020/x/wiki)
 
-
----
-# Tech Stack
-- Python/Django
-- HTML
-- CSS (Sass)
-- Bootstrap 4
 ---
 
 # Prerequisites

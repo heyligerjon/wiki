@@ -1,17 +1,15 @@
 # Wiki
 
-[**Harvard University CS50 Wiki Project**](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
+This project was created to meet the specifications of the [**Harvard University CS50 Wiki Project**](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
 
-For details on the `Specification` for this project, Please take a look at the [**Specification**](#specification) section below.
+For details on the specifications for this project, please view the [**Specification**](#specification) section below.
 
 
 ##
 
 # Introduction
 
- [**Wikipedia**](https://www.wikipedia.org/)
-
-[**`Github's Markdown`**](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+This project was created to develop a [**Wikipedia**](https://www.wikipedia.org/)-like online encyclopedia, where entries can be viewed by visiting each entry's page. Instead of using HTML, encyclopedia entries are written using [**Github's Markdown**](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax), a lighter-weight human-friendly markup language. 
 
 *For a full description of the CS50 Wiki project, visit:* [**CS50 Wiki Full Description**](https://cs50.harvard.edu/web/2020/projects/1/wiki/#:~:text=web50/projects/2020/x/wiki)
 
